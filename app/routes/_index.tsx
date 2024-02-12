@@ -2,8 +2,8 @@ import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { title: "CSU LAUTECH | Home" },
+    { name: "description", content: "Welcome the Cherubim and Seraphim Unification LAUTECH chapter website" },
   ];
 };
 
